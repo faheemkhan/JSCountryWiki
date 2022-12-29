@@ -1,0 +1,15 @@
+
+#brand{
+    align-items: center;
+    align-content: center;
+    padding-top:40px;
+}
+
+#navbar-toggler{
+    float: left;
+}
+
+#searchBar{
+    float:right;
+    min-width: 400px;
+}
